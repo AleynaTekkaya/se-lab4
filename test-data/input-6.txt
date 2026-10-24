@@ -1,0 +1,3 @@
+# R6: one successful shot is enough
+GT4500,1,1.0,1,0     # primary always fails
+TORPEDO,ALL          # only the secondary succeeds -> SUCCESS

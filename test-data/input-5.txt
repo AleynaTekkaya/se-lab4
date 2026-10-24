@@ -1,0 +1,4 @@
+# R5: ALL tries to fire both stores
+GT4500,1,0,1,0
+TORPEDO,ALL          # empties both stores
+TORPEDO,SINGLE       # nothing left -> FAIL

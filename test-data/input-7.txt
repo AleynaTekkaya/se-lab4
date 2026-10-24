@@ -1,0 +1,3 @@
+# R6: if every shot fails, the result is a failure
+GT4500,1,1.0,1,1.0   # both stores always fail
+TORPEDO,ALL

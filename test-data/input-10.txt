@@ -1,0 +1,4 @@
+# R3: no shot is possible once both stores have run out
+GT4500,1,0,0,0       # secondary is empty from the start
+TORPEDO,SINGLE       # primary, now both are empty
+TORPEDO,SINGLE       # nothing left -> FAIL
