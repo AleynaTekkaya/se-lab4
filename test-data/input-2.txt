@@ -1,0 +1,4 @@
+# R2: consecutive SINGLE shots alternate between the stores
+GT4500,1,0,1,1.0
+TORPEDO,SINGLE       # primary -> SUCCESS
+TORPEDO,SINGLE       # secondary -> FAIL

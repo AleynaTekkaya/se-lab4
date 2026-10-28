@@ -1,0 +1,4 @@
+# R3: if the store next in line is empty, the other one is fired
+GT4500,2,0,0,0       # secondary is empty
+TORPEDO,SINGLE       # primary
+TORPEDO,SINGLE       # secondary is empty -> falls back to primary

@@ -1,0 +1,4 @@
+# Boundary: firing from a completely empty ship
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+TORPEDO,ALL
